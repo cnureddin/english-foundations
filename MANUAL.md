@@ -41,3 +41,9 @@ The answers to PRACTICE, listed plainly at the bottom. For write-your-own items,
 | FS-9 | Modals: can/could/should/must/have to; modal + base verb, no -s, no do-support | https://raw.githubusercontent.com/cnureddin/english-foundations/main/sheets/FS9_modals.md |
 | FS-10 | Question master sheet: the QUASM machine unifying all question forms | https://raw.githubusercontent.com/cnureddin/english-foundations/main/sheets/FS10_questions_master.md |
 | FS-X | Gerunds & infinitives: verbs in noun costumes | https://raw.githubusercontent.com/cnureddin/english-foundations/main/sheets/FSX_gerunds_infinitives.md |
+| FS-11 | Sentence types: clauses, simple/compound/complex, FANBOYS, semicolons, comma-splice/run-on/fragment | https://raw.githubusercontent.com/cnureddin/english-foundations/main/sheets/FS11_sentence_types.md |
+| FS-12 | Subject–verb agreement: finding the true subject; prepositional-phrase blindfold, *and*-teams, or/nor, there is/are | https://raw.githubusercontent.com/cnureddin/english-foundations/main/sheets/FS12_subject_verb_agreement.md |
+| FS-13 | Capitalization: the 8 rules + Spanish contrast (days, months, languages, nationalities) | https://raw.githubusercontent.com/cnureddin/english-foundations/main/sheets/FS13_capitalization.md |
+| FS-14 | Paragraph toolkit: topic sentences, connector families, narrative/process/cause-effect/opinion skeletons, fact vs. opinion, email frames | https://raw.githubusercontent.com/cnureddin/english-foundations/main/sheets/FS14_paragraph_toolkit.md |
+| FS-9a | Polite requests & offers: Could you / Could I have / Would you like / I'd like (extends FS-9) | https://raw.githubusercontent.com/cnureddin/english-foundations/main/sheets/FS9a_requests_offers.md |
+| FS-R1 | Reading toolkit: SQ4R, paraphrasing, context clues, word parts & cognates, literal vs. figurative | https://raw.githubusercontent.com/cnureddin/english-foundations/main/sheets/FSR1_reading_toolkit.md |
