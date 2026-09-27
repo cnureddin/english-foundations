@@ -1,0 +1,38 @@
+---
+title: "English Foundations"
+subtitle: "Part 1 · From Zero to A2 — A 24-week bilingual course for Spanish speakers / De cero a A2 — Un curso bilingüe de 24 semanas para hispanohablantes"
+lang: en-US
+documentclass: book
+classoption: [oneside, openany]
+papersize: a4
+geometry: [margin=2.2cm]
+fontsize: 11pt
+mainfont: DejaVu Serif
+sansfont: DejaVu Sans
+monofont: DejaVu Sans Mono
+linestretch: 1.15
+toc: true
+toc-depth: 0
+colorlinks: true
+linkcolor: blue
+header-includes: |
+  \usepackage{titlesec}
+  \titleformat{\chapter}[display]{\normalfont\sffamily\huge\bfseries}{}{0pt}{\raggedright}
+  \titlespacing*{\chapter}{0pt}{-20pt}{18pt}
+  \titleformat{\section}{\normalfont\sffamily\Large\bfseries}{}{0pt}{}
+  \titleformat{\subsection}{\normalfont\sffamily\large\bfseries}{}{0pt}{}
+  \renewcommand{\arraystretch}{1.25}
+  \usepackage{etoolbox}
+  \AtBeginEnvironment{longtable}{\small}
+  \AtBeginDocument{\pagestyle{plain}}
+  \AtBeginDocument{\renewcommand{\textquotesingle}{\symbol{39}}}
+  \usepackage[normalem]{ulem}
+  \AtBeginDocument{\providecommand{\st}{}\renewcommand{\st}[1]{\sout{#1}}}
+  \usepackage{newunicodechar}
+  \newfontfamily\symbolfont{DejaVu Sans}
+  \newunicodechar{✓}{{\symbolfont ✓}}
+  \newunicodechar{✗}{{\symbolfont ✗}}
+  \newunicodechar{⚠}{{\symbolfont ⚠}}
+  \newunicodechar{★}{{\symbolfont ★}}
+  \newunicodechar{☐}{{\symbolfont ☐}}
+---

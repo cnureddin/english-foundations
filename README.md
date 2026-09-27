@@ -2,6 +2,10 @@
 
 A Spanish-speaking learner attends an English school that assumes fundamentals she lacks. This repo turns each homework into a learning event: a fresh Claude session, given only `LOADER.md` + the homework photo, tells her **what to read** (parts of the Foundation Sheets stored here), gives her a **mini-homework** to practice those fundamentals, and the **answer key**. She reads, practices, checks — then does the real homework herself. One session per homework. No plans, no tracking.
 
+## The book (standalone course)
+
+[`book/`](book/) turns the sheets into a complete self-study course that doesn't need a homework to start: **Part 1 · From Zero to A2** — 24 weeks, 3 sessions a week, grammar + vocabulary + reading + writing every week, with a graded story, answer keys and review weeks. Start at [`book/part1/00_how_to_use.md`](book/part1/00_how_to_use.md); build the PDF with `book/build.sh`. Parts 2 (B1) and 3 (B2–C1) are planned in [`book/ROADMAP.md`](book/ROADMAP.md).
+
 ## Contents
 
 ```
