@@ -21,15 +21,35 @@ The chapters render on GitHub, so the book can be read on a phone with no build 
 
 Review weeks (4, 8, 12, 16, 20, 24) mix everything, with a longer reading, a longer writing task and a scored progress check.
 
-## Build the PDF
+## Build the PDF and EPUB
 
-Needs [Pandoc](https://pandoc.org/installing.html) ≥ 3. The PDF also needs XeLaTeX (TeX Live, MacTeX or TinyTeX) and the DejaVu fonts installed. The EPUB embeds its own small symbol font ([`fonts/`](fonts/), DejaVu subset, license included), so ✓ ✗ ⚠ ★ ☐ display on Kindle and other e-readers; send it with Send to Kindle.
+On a new machine: install the tools once (step 1), then build (step 2). Run the script with **bash** (`./build.sh` or `bash build.sh`), not `sh`.
+
+**1 · Install the tools (once)**
+
+| System | PDF + EPUB | EPUB only |
+|---|---|---|
+| Ubuntu / Debian | `sudo apt install pandoc texlive-xetex texlive-latex-extra fonts-dejavu` | `sudo apt install pandoc` |
+| macOS (Homebrew) | `brew install pandoc font-dejavu` and `brew install --cask mactex-no-gui` | `brew install pandoc` |
+| Windows | use WSL (Ubuntu) and follow the Ubuntu row | — |
+
+Pandoc must be version 3 or newer (`pandoc --version`); Ubuntu 22.04's package is 2.9 — if so, install the `.deb` from <https://github.com/jgm/pandoc/releases>. On macOS, open a new terminal after installing MacTeX so `xelatex` is on your `PATH`.
+
+With a small TeX distribution (TinyTeX or BasicTeX) instead of the full one, add the packages the PDF uses:
+
+```bash
+tlmgr install titlesec ulem soul newunicodechar etoolbox booktabs xurl bookmark footnotehyper upquote microtype parskip setspace unicode-math lm-math
+```
+
+**2 · Build**
 
 ```bash
 cd book
-./build.sh          # → build/english-foundations-part1.pdf
-./build.sh epub     # → build/english-foundations-part1.epub
+./build.sh          # → build/english-foundations-part1.pdf   (~20 s)
+./build.sh epub     # → build/english-foundations-part1.epub  (a few seconds)
 ```
+
+The PDF uses the DejaVu fonts installed on your machine. The EPUB embeds its own small symbol font ([`fonts/`](fonts/), a DejaVu subset, license included), so ✓ ✗ ⚠ ★ ☐ display on Kindle and other e-readers; send it with Send to Kindle (if symbols show as boxes, choose *Aa → Publisher Font*).
 
 The chapter order is [`part1/chapters.txt`](part1/chapters.txt); page layout is [`part1/metadata.yaml`](part1/metadata.yaml). `build/` is not committed.
 

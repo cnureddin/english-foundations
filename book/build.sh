@@ -13,14 +13,20 @@ PANDOC="${PANDOC:-pandoc}"
 OUT="build/english-foundations-${PART}.${FORMAT}"
 mkdir -p build
 
-mapfile -t FILES < <(grep -v '^\s*#' "$PART/chapters.txt" | sed '/^\s*$/d' | sed "s#^#$PART/#")
+# Read the chapter list (works with the old bash 3.2 that ships with macOS).
+FILES=()
+while IFS= read -r line || [[ -n "$line" ]]; do
+  line="${line%%$'\r'}"
+  [[ -z "${line// }" || "$line" == \#* ]] && continue
+  FILES+=("$PART/$line")
+done < "$PART/chapters.txt"
 
 missing=0
 for f in "${FILES[@]}"; do [[ -f "$f" ]] || { echo "missing: $f" >&2; missing=1; }; done
 [[ $missing -eq 0 ]] || { echo "Add the missing chapters or remove them from $PART/chapters.txt" >&2; exit 1; }
 
 # The PDF font cannot draw emoji; the book uses only ✓ ✗ ⚠ ★ → ☐ (see AUTHORING.md).
-if grep -nP '[\x{1F000}-\x{1FFFF}\x{2705}\x{274C}\x{2B50}\x{FE0F}]' "${FILES[@]}"; then
+if perl -CSD -ne 'print "$ARGV:$.: $_" if /[\x{1F000}-\x{1FFFF}\x{2705}\x{274C}\x{2B50}\x{FE0F}]/; close ARGV if eof' "${FILES[@]}" | grep .; then
   echo "Emoji found above: replace them with ✓ ✗ ⚠ ★ (AUTHORING.md §3)" >&2; exit 1
 fi
 
