@@ -318,7 +318,7 @@
 
 **EN:** *Thirteen* or *thirty*? Listen to the strong part. In **13–19** the strong part is at the **end**: thir**TEEN**, four**TEEN**, fif**TEEN**. In **30, 40, 50…** it is at the **start**: **THIR**ty, **FOR**ty, **FIF**ty. When you say your age or a price, make the strong part clear. If you are not sure, ask: *Sorry — one-three or three-zero?*
 
-**ES:** ¿*Thirteen* o *thirty*? Escucha la parte fuerte. Del **13 al 19** la parte fuerte está al **final**: thir**TEEN**, four**TEEN**, fif**TEEN**. En **30, 40, 50…** está al **principio**: **THIR**ty, **FOR**ty, **FIF**ty. Cuando digas tu edad o un precio, marca bien la parte fuerte. Si no estás seguro/a, pregunta: *Sorry — one-three or three-zero?* (¿Uno-tres o tres-cero?)
+**ES:** ¿*Thirteen* o *thirty*? Escucha la parte fuerte. Del **13 al 19** la parte fuerte está al **final**: thir**TEEN**, four**TEEN**, fif**TEEN**. En **30, 40, 50…** está al **principio**: **THIR**ty, **FOR**ty, **FIF**ty. Cuando digas tu edad o un precio, marca bien la parte fuerte. Si tienes dudas, pregunta: *Sorry — one-three or three-zero?* (¿Uno-tres o tres-cero?)
 
 ---
 
@@ -447,7 +447,7 @@
 10. Capital letter or not? (summer / Summer) · (monday / Monday)
 
 **EN:** 8 or more right → go on to Unit 3. Fewer than 8 → re-read Sections A2–A5 and do E3 again.
-**ES:** 8 o más bien → pasa a la Unidad 3. Menos de 8 → vuelve a leer las Secciones A2–A5 y repite E3.
+**ES:** 8 o más aciertos → pasa a la Unidad 3. Menos de 8 → vuelve a leer las Secciones A2–A5 y repite E3.
 
 ---
 

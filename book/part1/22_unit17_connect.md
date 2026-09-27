@@ -213,7 +213,7 @@
 | **At work / En el trabajo** | | |
 | colleague | colega, compañero/a de trabajo | My colleagues are very kind. |
 | guest | huésped, invitado/a | The guests want a room with a view. |
-| to check in | registrarse (al llegar) | The family checked in at 8 a.m. |
+| to check in | registrarse (al llegar) | The family checked in at 9 a.m. |
 | to check out | salir del hotel, pagar la cuenta | Guests check out before 11 a.m. |
 | reservation | reserva | Your reservation is for two nights. |
 | key card | tarjeta llave | Here is your key card. |
@@ -258,7 +258,7 @@
 >
 > This is a busy month for me. I work at the front desk of the Lakeview Hotel from Monday to Friday, and I go to my English class on Tuesday and Thursday nights. This is my last course at Lincoln Adult School, so the final exam is very important.
 >
-> The summer was the busiest time of the year at the hotel. There were guests from many countries, and everyone wanted a room with a view of the lake. Now it is September, but the hotel is still full. On Monday, a family of five arrived at 7:45 a.m., and their reservation was not in the computer. I was nervous, but I stayed calm. I called Ms. Rivera, and we found a room for them. When the family checked in, the father said "Thank you!" three times.
+> The summer was the busiest time of the year at the hotel. There were guests from many countries, and everyone wanted a room with a view of the lake. Now it is September, but the hotel is still full. On Monday, a family of five arrived at 8:15 a.m., and their reservation was not in the computer. I was nervous, but I stayed calm. I called Ms. Rivera, and we found a room for them. When the family checked in, the father said "Thank you!" three times.
 >
 > My colleagues are very kind, but the work is stressful sometimes. The phones at the front desk ring all day, and the list of guests is always long. After school, Mateo goes to Mrs. Park's apartment, and I pick him up at 4:30.
 >
@@ -387,7 +387,7 @@
 10. *Colleague* means: (a) colegio (b) compañero/a de trabajo
 
 **EN:** 8 or more right → go on to Unit 18. Fewer than 8 → re-read Sections A2–A5 and do E3 again.
-**ES:** 8 o más bien → pasa a la Unidad 18. Menos de 8 → vuelve a leer las Secciones A2–A5 y repite E3.
+**ES:** 8 o más aciertos → pasa a la Unidad 18. Menos de 8 → vuelve a leer las Secciones A2–A5 y repite E3.
 
 ---
 
@@ -409,7 +409,7 @@
 
 **C3:** 1. *and:* I work at the front desk…, and I go to my English class… (also: …many countries, and everyone wanted…) · *but:* I was nervous, but I stayed calm. (also: My colleagues are very kind, but…; Sometimes I feel tired, but…) · *so:* This is my last course…, so the final exam is very important. (also: …again, so we study together) · 2. *…because the class starts at six* · *When the family checked in, …* · *Before I came to Chicago, …* · *If I pass, …* (any three) · 3. *list* (→ *is*); *students* (→ *are*) · 4. *everyone **wanted*** (past: the same for all) · *each student **has*** (singular, with -s)
 
-**D (example):** My week was long, but it was interesting. I work in a store, and I take English classes on Saturday. On Monday, the store was very busy, so I didn't have lunch. I was tired, but my manager was happy with me. On Wednesday, I stayed at home because I had a cold. When my sister called, she brought me soup. I like my job because the people are nice. The pay is low, but I am learning a lot. My exam is next week, so I will study every night. In my opinion, I am ready.
+**D (example):** My week was long, but it was interesting. I work in a store, and I take English classes on Saturday. On Monday, the store was very busy, so I didn't have lunch. I was tired, but my manager was happy with me. On Wednesday, I stayed at home because I had a cold. When my sister called, she brought me soup. I like my job because the people are nice. The pay is low, but I am learning a lot. My exam is next week, so I will study every night. In my opinion, I am ready, and I am not nervous.
 
 **E1:** 1. The hotel is big, and the rooms are beautiful. · 2. I studied a lot, but the exam was difficult. · 3. It was raining, so we took a taxi. · 4. We can eat at home, or we can go to a restaurant. · 5. Mateo was hungry, so he ate two arepas.
 

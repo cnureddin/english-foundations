@@ -44,7 +44,7 @@
 | ☐ | I can… / Puedo… | Unit |
 |---|---|---|
 | ☐ | understand a short text about a person's life, home or day / entender un texto corto sobre la vida, la casa o el día de una persona | 1–6 |
-| ☐ | understand messages, emails and short blog posts / entender mensajes, emails y posts cortos | 8, 12, 18 |
+| ☐ | understand messages, emails and short blog posts / entender mensajes, emails y posts cortos | 8, 12, 16, 18 |
 | ☐ | guess a new word from the sentence around it / adivinar una palabra nueva por la oración | 11 |
 | ☐ | find the topic sentence of a paragraph / encontrar la oración principal de un párrafo | 18 |
 | ☐ | say if a sentence is a fact or an opinion / decir si una oración es un hecho o una opinión | 18 |
@@ -129,7 +129,7 @@
 >
 > What are you going to do this year? Here is the plan. First, you are going to start the next course, level B1, in October. Second, you are going to read one short book in English every month. Finally, you want to be the new front desk supervisor. Ms. Rivera says you have a good chance.
 >
-> Here is some advice from me. You should speak English with your colleagues, even when you are tired. You shouldn't be afraid of mistakes, because mistakes are how you learn. Reading before bed is a good habit, so don't stop. And you must call Mom every Sunday!
+> Here is some advice from me. You should speak English with your colleagues, even when you are tired. You shouldn't be afraid of mistakes because mistakes are how you learn. Reading before bed is a good habit, so don't stop. And you must call Mom every Sunday!
 >
 > I think next year will be the best year of your life. Maybe you will visit Cali with Mateo, or maybe Carlos will come to Chicago again. Maybe your English will be as good as Mateo's. (Maybe not!)
 >
@@ -360,9 +360,9 @@
 
 **C2:** 1. He clapped louder than everyone in the room. · 2. One hour. · 3. She speaks English at work, she writes emails, and she understands the news on TV. · 4. To start the next course (B1) in October, to read one short book in English every month, and to become the new front desk supervisor. · 5. Because mistakes are how you learn.
 
-**C3:** (examples) 1. *got, knew, wrote, took, met, came, gave, said* · 2. *you didn't stop* · 3. *you are going to start the next course* (or *…going to read one short book*) · 4. *next year will be the best year* (or *Maybe you will visit Cali*) · 5. *You should speak English…* / *You shouldn't be afraid…* / *you must call Mom* · 6. *Reading before bed is a good habit* · 7. comparative: *louder, busier, better* (or *as good as*: equal) · superlative: *the best year of your life* · 8. *You shouldn't be afraid of mistakes, because mistakes are how you learn.*
+**C3:** (examples) 1. *got, knew, wrote, took, met, came, gave, said* · 2. *you didn't stop* · 3. *you are going to start the next course* (or *…going to read one short book*) · 4. *next year will be the best year* (or *Maybe you will visit Cali*) · 5. *You should speak English…* / *You shouldn't be afraid…* / *you must call Mom* · 6. *Reading before bed is a good habit* · 7. comparative: *louder, busier, better* (or *as good as*: equal) · superlative: *the best year of your life* · 8. *You shouldn't be afraid of mistakes because mistakes are how you learn.*
 
-**D (example):** This was a very important year for my English. A year ago, my first text had five sentences, and all of them were about me. Today my sentences are longer, and they are more interesting. First, I can talk to my neighbors now. When they ask a question, I understand it. Second, I watch series with English subtitles, and I understand a lot. In addition, I wrote emails to my manager at work. My English is not perfect. For example, I still say *more big* sometimes. However, my mistakes are smaller now. Next year, I am going to start Part 2. For these reasons, I think this was a great year. *(Compare:)* My new text is much longer than my first text. My sentences are more interesting now. The most difficult thing in week 1 was the empty subject seat.
+**D (example):** This was a very important year for my English. A year ago, my first text had five sentences, and all of them were about me. Today my sentences are longer, and they are more interesting. First, I can talk to my neighbors now. When they ask a question, I understand it. Second, I watch series with English subtitles, and I understand a lot. Last week, I watched a whole movie in English! In addition, I wrote emails to my manager at work. They were short, but they were correct. My English is not perfect. For example, I still say *more big* sometimes. However, my mistakes are smaller now. Next year, I am going to start Part 2. For these reasons, I think this was a great year. *(Compare:)* My new text is much longer than my first text. My sentences are more interesting now. The most difficult thing in week 1 was the empty subject seat.
 
 **E · Progress check:**
 

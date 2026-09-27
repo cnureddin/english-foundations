@@ -85,7 +85,7 @@
 
 **EN:** Your brain knows the -ed rule now, so it wants to use it everywhere: ✗ *goed*, ✗ *buyed*, ✗ *teached*. Mateo hears this from his mother and laughs: "Mom, not *teached* — **taught**!"
 
-**ES:** Tu cerebro ya conoce la regla del -ed, así que quiere usarla en todas partes: ✗ *goed*, ✗ *buyed*, ✗ *teached*. Mateo se lo escucha a su mamá y se ríe: "Mamá, no *teached* — **taught**!"
+**ES:** Tu cerebro ya conoce la regla del -ed, así que quiere usarla en todas partes: ✗ *goed*, ✗ *buyed*, ✗ *teached*. Mateo se lo escucha a su mamá y se ríe: "¡Mamá, no *teached* — **taught**!"
 
 **Mini-practice 1 / Mini-práctica 1** — Write the past form. / Escribe el pasado.
 
@@ -328,7 +328,7 @@
 >
 > In 1975 Min-ho got a job in Chicago, and they came to the United States. The first year was difficult. Helen was homesick: she missed her family and her country every day. She knew some English from school, but she didn't understand people in the stores. She took English classes at night — like me! She also read a lot at the library.
 >
-> Later, Helen taught math at a high school in Chicago for 35 years. She was a strict teacher: nobody talked in her class, and everybody did the homework. But her students loved her. She retired in 2010.
+> Later, Helen taught math at a high school in Chicago for 35 years. She was a strict teacher: nobody talked in her class, and everybody did the homework. But her students loved her. She retired in 2013.
 >
 > Min-ho died in 2019. Now Mrs. Park lives alone with her cat, Tofu. Her English is fluent today — she speaks it perfectly — but she still speaks Korean on the phone with her brothers.
 >
@@ -457,7 +457,7 @@
 10. *Lucía was **exhausted** after 12 hours at work.* What kind of clue helps you? ___
 
 **EN:** 8 or more right → go on to Unit 12. Fewer than 8 → re-read Sections A1–A4 and do E2 again.
-**ES:** 8 o más bien → pasa a la Unidad 12. Menos de 8 → vuelve a leer las Secciones A1–A4 y repite E2.
+**ES:** 8 o más aciertos → pasa a la Unidad 12. Menos de 8 → vuelve a leer las Secciones A1–A4 y repite E2.
 
 ---
 
@@ -477,11 +477,11 @@
 
 **C1:** 1. True · 2. False (mathematics) · 3. False (in Seoul, at university) · 4. False (it was difficult) · 5. True · 6. False (her husband died in 2019; she lives alone with Tofu)
 
-**C2:** 1. In 1974. · 2. Min-ho got a job in Chicago. · 3. At the library. · 4. In 2010.
+**C2:** 1. In 1974. · 2. Min-ho got a job in Chicago. · 3. At the library. · 4. In 2013.
 
 **C3:** 1. Any 8: was → be · grew up → grow up · bought → buy · went → go · met → meet · got → get · came → come · knew → know · took → take · read → read · taught → teach · did → do · thought → think · said → say · left → leave · found → find · 2. *Her family didn't have much money* · *she didn't understand people in the stores* · 3. *Helen Park was born in Seoul, South Korea, in 1953.* · 4. *"Was it a good life?"*
 
-**C4:** 1. sad because you are far from home / nostálgico/a, que extraña su casa — definition clue (the colon: *she missed her family and her country*) · 2. serious, with a lot of rules / estricto/a — the colon explains it (definition / logic clue: *nobody talked … everybody did the homework*) · 3. very good, perfect (in a language) / con fluidez — definition clue (the dash: *she speaks it perfectly*) · 4. Any 3: apartment, family, university, mathematics, engineering, student, United States, difficult, classes, perfectly, moment · 5. *library* = biblioteca (not librería)
+**C4:** 1. sad because you are far from home / nostálgico/a, que extraña su casa — definition clue (the colon: *she missed her family and her country*) · 2. serious, with a lot of rules / estricto/a — the colon explains it (definition / logic clue: *nobody talked … everybody did the homework*) · 3. very good, perfect (in a language) / con fluidez — definition clue (the dash: *she speaks it perfectly*) · 4. Any 3: apartment, family, university, mathematics, engineering, student, United States, difficult, classes, perfectly, moment · 5. *library* = biblioteca (not librería) — or *parents* = padres (not parientes)
 
 **D (example):** My grandfather, José Pérez, was born in Lima in 1950. He grew up in a big house with his grandparents. As a child, he loved soccer. He didn't go to university. At 18, he got a job in a bank. He met my grandmother at a party, and they got married in 1975. They had three children. In 1990, they moved to Arequipa. He worked in the bank for 40 years. Now he lives with my aunt, and he still watches soccer every weekend.
 

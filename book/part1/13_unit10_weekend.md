@@ -428,7 +428,7 @@
 10. *Tenía hambre* in English: ___
 
 **EN:** 8 or more right → go on to Unit 11. Fewer than 8 → re-read Sections A2–A4 and do E1–E2 again.
-**ES:** 8 o más bien → pasa a la Unidad 11. Menos de 8 → vuelve a leer las Secciones A2–A4 y repite E1–E2.
+**ES:** 8 o más aciertos → pasa a la Unidad 11. Menos de 8 → vuelve a leer las Secciones A2–A4 y repite E1–E2.
 
 ---
 

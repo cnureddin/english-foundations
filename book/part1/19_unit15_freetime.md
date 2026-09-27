@@ -126,7 +126,7 @@ El inglés le pone al verbo un **disfraz**, para que parezca un sustantivo y pue
 
 **ES:** Más verbos + *to*: *hope, plan, decide, learn* (*learn to swim*, aprender a nadar). Con *like, love, hate*, los dos disfraces son correctos; para pasatiempos, *-ing* es lo más común: *I love cooking.*
 
-**⚠ Remember Unit 14 / Recuerda la Unidad 14:** *I like dancing* = me gusta bailar (in general). *I'd like to dance* = me gustaría bailar (now, or in the future). *Would like* always takes *to*. / *I like dancing* = me gusta bailar (en general). *I'd like to dance* = me gustaría bailar (ahora, o en el futuro). *Would like* siempre lleva *to*.
+**⚠ Remember Unit 14 / Recuerda la Unidad 14:** *I like dancing* = me gusta bailar (in general). *I'd like to dance* = me gustaría bailar (now, or in the future). Before a verb, *would like* always takes *to*. / *I like dancing* = me gusta bailar (en general). *I'd like to dance* = me gustaría bailar (ahora, o en el futuro). Antes de un verbo, *would like* siempre lleva *to*.
 
 **Mini-practice 2 / Mini-práctica 2** — Write *-ing* or *to + verb*. / Escribe *-ing* o *to + verbo*.
 
@@ -266,7 +266,7 @@ El inglés le pone al verbo un **disfraz**, para que parezca un sustantivo y pue
 
 ### Word tip / Consejo de palabras
 
-**EN:** Spanish often uses *hacer* or *jugar* for sports. English uses three verbs: **play** for ball games and music instruments, **go** for *-ing* activities, and **do** for some other activities. Sports take no article (*play soccer*); instruments take *the* (*play the guitar*).
+**EN:** Spanish often uses *hacer* or *jugar* for sports. English uses three verbs: **play** for ball games and musical instruments, **go** for *-ing* activities, and **do** for some other activities. Sports take no article (*play soccer*); instruments take *the* (*play the guitar*).
 
 **ES:** El español usa muchas veces *hacer* o *jugar* para los deportes. El inglés usa tres verbos: **play** para juegos de pelota e instrumentos musicales, **go** para actividades con *-ing*, y **do** para algunas otras actividades. Los deportes no llevan artículo (*play soccer*); los instrumentos llevan *the* (*play the guitar*).
 
@@ -390,7 +390,7 @@ El inglés le pone al verbo un **disfraz**, para que parezca un sustantivo y pue
 2. I'm interested in to learn Korean.
 3. She finished to eat her dinner.
 4. Cook is my favorite activity.
-5. He went to the gym for exercise.
+5. He went to the gym for play basketball.
 
 **E4 · Gerund or continuous? / ¿Gerund o continuo?** — Write G (gerund = a noun) or C (continuous = a verb, action now). / Escribe G (gerund = sustantivo) o C (continuo = verbo, acción ahora).
 
@@ -419,7 +419,7 @@ El inglés le pone al verbo un **disfraz**, para que parezca un sustantivo y pue
 10. *I'd like to dance* means: (a) me gusta bailar (b) me gustaría bailar
 
 **EN:** 8 or more right → go on to Review E. Fewer than 8 → re-read Sections A2–A5 and do E1 and E2 again.
-**ES:** 8 o más bien → pasa al Repaso E. Menos de 8 → vuelve a leer las Secciones A2–A5 y repite E1 y E2.
+**ES:** 8 o más aciertos → pasa al Repaso E. Menos de 8 → vuelve a leer las Secciones A2–A5 y repite E1 y E2.
 
 ---
 
@@ -445,7 +445,7 @@ El inglés le pone al verbo un **disfraz**, para que parezca un sustantivo y pue
 
 **E2:** 1. helping · 2. to buy · 3. Swimming · 4. to play · 5. waiting
 
-**E3:** 1. **Going swimming** is good exercise. · 2. I'm interested in **learning** Korean. · 3. She finished **eating** her dinner. · 4. **Cooking** is my favorite activity. · 5. He went to the gym **to exercise**.
+**E3:** 1. **Going swimming** is good exercise. · 2. I'm interested in **learning** Korean. · 3. She finished **eating** her dinner. · 4. **Cooking** is my favorite activity. · 5. He went to the gym **to play** basketball.
 
 **E4:** 1. G · 2. C · 3. G · 4. C · 5. G
 

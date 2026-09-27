@@ -94,23 +94,56 @@ Review weeks: Day 1 grammar mix (A) + vocabulary (B) · Day 2 reading (C) · Day
 
 The readings follow one family, so the reader gets context for free and vocabulary recycles naturally. Keep facts consistent.
 
-- **Lucía Ramírez** — 32, from Cali, Colombia. Moves to **Chicago** with her son at the start of the book. At first she works at the **Blue Door Café** (Units 1–8); in Unit 9 she interviews for a job at the front desk of the **Lakeview Hotel** and gets it (works there from Unit 10). Studies English at night at **Lincoln Adult School** (Tuesday and Thursday, 6–8 p.m.). Likes cooking, salsa music, walking by the lake. Doesn't like cold weather.
+- **Lucía Ramírez** — 32, from Cali, Colombia. Moves to **Chicago** with her son at the start of the book. At first she works at the **Blue Door Café** (Units 1–8); in Unit 9 she interviews for a job at the front desk of the **Lakeview Hotel** and gets it (her first week there is in Review C, December; Unit 10 is her first weekend after it). Studies English at night at **Lincoln Adult School** (Tuesday and Thursday, 6–8 p.m.). Likes cooking, salsa music, walking by the lake. Doesn't like cold weather.
 - **Mateo Ramírez** — her son, 9, in 4th grade at **Hawthorne Elementary School**. Loves soccer and dinosaurs. Learns English faster than his mother — and corrects her.
-- **Carlos Ramírez** — Lucía's brother, 28, still in Cali, engineer; plans a summer visit (Unit 12); may visit again later.
-- **Rosa** — Lucía's mother, 60, in Cali; Lucía writes/talks to her.
+- **Carlos Ramírez** — Lucía's brother, 28, still in Cali, engineer; plans a summer visit (Unit 12) and visits July 11–25, 2026; may visit again later.
+- **Rosa** — Lucía's mother, 60, in Cali; Lucía writes/talks to her and calls her on Sundays.
 - **Mrs. Helen Park** — neighbor, 72, retired math teacher, born in Seoul, came to Chicago in 1975; widow; has a cat, **Tofu**; helps Lucía with English.
 - **Ana Torres** — classmate, 40, from Guadalajara, Mexico; nurse's assistant; funny; writes a blog.
 - **Mr. James Miller** — the English teacher at Lincoln Adult School, 50, from Ohio.
-- **Sam Okafor** — coworker at the Blue Door Café, 25, born in Chicago, parents from Nigeria; studies computer science.
+- **Sam Okafor** — coworker at the Blue Door Café (after Lucía moves to the hotel, "Lucía's friend from the Blue Door Café"), 25, born in Chicago, parents from Nigeria; studies computer science.
 - Classmates at Lincoln Adult School (Unit 2): **Wei Chen** (China, 45, cook) and **Paulo Silva** (Brazil, 23, taxi driver).
 - **Leo** — Mateo's best friend at school.
 - **Andrés** — Mateo's father, lives in Cali; Lucía and Andrés are separated. Mateo video-calls him on Sundays. Keep it neutral and brief.
 - **Ms. Laura Rivera** — manager of the Lakeview Hotel (interviews Lucía in Unit 9). **Ms. Johnson** — Mateo's teacher. **Dr. Patel** — the family doctor (Unit 13).
 - Work hours: Blue Door Café 7 a.m.–3 p.m., Monday to Friday. Lakeview Hotel front desk 8 a.m.–4 p.m., Monday to Friday, some Saturdays.
-- Established details (Units 4–6): Mrs. Park lives on the 3rd floor too; Tofu has green eyes; Mrs. Park walks Mateo to school at 6:45 and keeps him Tue/Thu evenings; Lucía has curly hair like Carlos; Mateo is an only child; Sam's family: father Emeka, mother Grace (nurse), sister Joy (19); Mateo's favorite dinosaur is the T. rex.
+- Established details (Units 4–6): Mrs. Park lives on the 3rd floor too; Tofu has green eyes; Mateo goes to Mrs. Park's apartment at 6:45 a.m. and she walks him to school later (school starts at 8); she keeps him Tue/Thu evenings; Lucía has curly hair like Carlos; Mateo is an only child; Sam's family: father Emeka, mother Grace (nurse), sister Joy (19); Mateo's favorite dinosaur is the T. rex.
 - Apartment: 2 bedrooms, 3rd floor, **Maple Street**, near a park and a bus stop.
 
-Timeline: Units 1–3 = first weeks (September); Units 4–9 = autumn; Unit 8 = first snow (November/December); Units 10–12 = winter → spring; Units 13–15 = spring; Units 16–18 + final review = one year later, summer/September.
+Timeline: Units 1–3 = first weeks (September 2025); Units 4–9 = autumn 2025; Unit 8 = first snow (November/December 2025); Units 10–12 = winter → spring 2026; Units 13–15 = spring 2026; Units 16–18 + final review = one year later, September 2026 (looking back on the summer). Any weekday + date in a story text must match the real calendar of that year (check with a calendar).
+
+### Established facts (Part 1)
+
+The book as it now stands. Part 2 starts after the final review (autumn 2026) and must not contradict any of this.
+
+**Timeline**
+
+- **Sept 2025** (Units 1–3): Lucía and Mateo arrive in Chicago "with two suitcases"; first English class; café job; apartment on Maple Street.
+- **Oct 2025** (Unit 6): Halloween party at the library on October 31st (Mateo wants a dinosaur costume).
+- **Nov/Dec 2025** (Units 8–9): first snow, Lucía still at the café. Interview with Ms. Rivera (pay $19/hour; two Saturdays a month is fine); "I can start in two weeks."
+- **Dec 2025** (Review C): Lucía's first week at the Lakeview Hotel front desk. Unit 10 = her first weekend after it (cooked arroz con pollo for Mrs. Park; snow on Sunday).
+- **Spring 2026** (Units 11–15): Lucía interviews Mrs. Park for class (Unit 11). Carlos buys his ticket (Unit 12). Mateo's Field Museum trip (Sue the T. rex), zoo trip "next month" (Review D). Ana's sister Elena visits for ten days from Sunday May 3 (lunch with cousins Saturday May 9; Ana invites Lucía for Sunday May 10); Lucía and Mrs. Park take a Korean cooking class on May 16. Mateo has the flu (Dr. Patel; Unit 13). Dinner at Mrs. Park's, arepas (Unit 14). Sam's free-time survey app (Unit 15).
+- **July 11–25, 2026**: Carlos's visit (arrives Saturday July 11, 6 p.m., by plane; they pick him up by train; he sleeps on the sofa; Mrs. Park's dinner Sunday July 12; Mateo's soccer game Saturday July 18). Lucía takes three (maybe four) days off.
+- **Sept 2026** (Units 16–18, final): "one year later". Lucía writes a post for Ana's blog (Chicago or Cali?); last course at Lincoln Adult School; final exam on a Thursday; Lucía and Ana pass and get the certificate; Lucía writes a letter to herself "to open next September" (2027). Plans: B1 course from October 2026, one book a month, front desk supervisor post "next year". From October 1st, 2026, Mateo has soccer practice Mon/Wed at 4 p.m.; Lucía asks to work 7–3 on those days.
+
+**People**
+
+- **Lucía** — 32 (autumn 2025); curly dark hair (like Carlos), big smile; hard-working, always on time, funny (jokes in Spanish). Gets up 5:30, bed at 10 (café era). Café 7–3 Mon–Fri, then meets Mateo at school at 3:30. Hotel 8–4 Mon–Fri, some Saturdays, never Sundays; must arrive 10 minutes early; uniform and name tag. After the hotel move, Mateo goes to Mrs. Park's after school and Lucía picks him up at 4:30. Takes the bus to work (studies 20 minutes on it). Sundays: walks by the lake with Mateo (not in winter), calls Rosa. Cooks arepas, arroz con pollo, soup. Wants the supervisor promotion.
+- **Mateo** — 9 in Sept 2025 and still 9 in spring 2026 (birthday between May and September; he can be 10 in Part 2). Grade 4 at Hawthorne Elementary (Ms. Johnson) in 2025–26; 5th grade from Sept 2026 (teacher not named yet). Gets up 6:15 on school days; doesn't like mornings. Best friend Leo (same class; plays soccer at lunch and Saturday mornings in the park). Library on Park Avenue (dinosaur books); favorite dinosaur T. rex. Video-calls his father Andrés on Sundays. Corrects his mother's English. Taller than Leo.
+- **Mrs. Helen Park** — born in Seoul, 1953 (birthday between May and early September: 72 from Sept 2025 through spring 2026, 73 in Sept 2026). Grew up with her parents and two brothers; university in Seoul at 18 (mathematics); met Min-ho Park, an engineering student; married 1974; came to Chicago 1975 when Min-ho got a job there; first year difficult (homesick; took English classes at night); taught math at a Chicago high school for 35 years (strict, loved); retired 2013; Min-ho died 2019; widow, lives alone with Tofu in apartment 3B (3rd floor, same building). Small, short white hair, always wears glasses; patient, quite serious but funny. Gets up at six, walks every morning; library Mondays (10 a.m.); lunch at a Korean restaurant on Wednesdays; Korean TV at night; helps Lucía with English on Saturdays; keeps Mateo Tue/Thu evenings; makes cookies; gardening, reading, painting (started 2025). Speaks Korean on the phone with her brothers.
+- **Tofu** — big, white, lazy male cat ("he" from Unit 7; "it" in Unit 4), green eyes; sleeps on the sofa; always hungry; unfriendly with most people, loves Mateo.
+- **Carlos** — 28, tall, short curly hair, engineer in Cali; went to university in Cali; Mateo's hero.
+- **Rosa** — 60, short gray hair, brown eyes; in Cali; sent coffee and arepa flour with Carlos; gave Mateo $5 for the museum trip.
+- **Andrés** — Mateo's father, in Cali; separated from Lucía; "a good father".
+- **Ana Torres** — 40, from Guadalajara; nurse's assistant at a Chicago hospital, 8–4 Mon–Fri (40 hours a week; sometimes extra shifts); takes the bus, doesn't drive; one-bedroom apartment with plants; very funny, talkative; writes a blog (EN + ES); goes dancing every Saturday (salsa); sister Elena in Guadalajara; cousin Marta in Chicago; grandmother Carmen Torres (born 1945, 80). Takes the B1 course with Lucía next.
+- **Mr. James Miller** — 50, from Ohio; tall, short brown hair, small beard; patient, serious but kind; starts class at six; writes an advice column in the school newsletter.
+- **Sam Okafor** — 25, born in Chicago, parents from Nigeria (Emeka; Grace, a nurse; sister Joy, 19). Lucía's coworker at the café until Unit 9, then "Lucía's friend from the Blue Door Café"; studies computer science at a university; good at fixing computers; plays basketball, runs by the lake; is making an app.
+- **Wei Chen** (China, 45, cook) and **Paulo Silva** (Brazil, 23, taxi driver) — Unit 2 classmates. **Ms. Laura Rivera** — hotel manager. **Dr. Patel** — family doctor (a woman).
+
+**Places**
+
+- Apartment: Maple Street, 3rd floor, no elevator, 2 bedrooms, old sofa, four chairs; bus stop in front of the building, small park at the end of the street; supermarket on the corner with a pharmacy across from it; bank near the park; library on Park Avenue next to the post office (9 a.m.–8 p.m., closed Sundays); L train station 10 minutes away, downtown 20 minutes by train.
+- Lincoln Adult School: Tue/Thu 6–8 p.m.; Lucía's course runs Sept 2025 – Sept 2026. Lakeview Hotel: near the lake, 120 rooms, front desk rules (Unit 13).
 
 ## 7 · Level control
 

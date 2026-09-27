@@ -410,7 +410,7 @@ Con una palabra interrogativa, ponla adelante: *What time **do** you get up?* (�
 10. *Desayunar* in English: ___
 
 **EN:** 8 or more right → go on to Unit 6. Fewer than 8 → re-read Sections A2–A5 and do E2 and E3 again.
-**ES:** 8 o más bien → pasa a la Unidad 6. Menos de 8 → vuelve a leer las Secciones A2–A5 y repite E2 y E3.
+**ES:** 8 o más aciertos → pasa a la Unidad 6. Menos de 8 → vuelve a leer las Secciones A2–A5 y repite E2 y E3.
 
 ---
 
@@ -430,7 +430,7 @@ Con una palabra interrogativa, ponla adelante: *What time **do** you get up?* (�
 
 **C3:** 1. Examples: *starts, wakes, takes, has, goes, works, makes, talks, finishes, meets, cooks, stays, likes, gets* · the -es verbs: *goes, finishes* (and *does*) · 2. *Mateo **doesn't like** mornings* · *Mateo **doesn't walk** to school alone* · 3. *Does Mateo go with her? — No, he doesn't.* · 4. Examples: 5:30 · 6:30 · 6:45 · 7:00–3:00 · 8:00 · 3:30 · 6:00–8:00 p.m. · 8:30 · 10:00
 
-**D (example):** I wake up at seven. I have breakfast at half past seven. I go to work at eight. I work from nine to five. I don't have lunch at home. I cook dinner at seven. I don't watch TV at night. I go to bed at eleven. My husband gets up at six. He takes the bus to work. He doesn't cook.
+**D (example):** I wake up at seven. I have breakfast at half past seven. I go to work at eight. I work from nine to five. I don't have lunch at home. I cook dinner at seven. I don't watch TV at night. I go to bed at eleven. My brother gets up at six. He takes the bus to work. He doesn't cook.
 
 **E1:** 1. cooks · 2. study · 3. goes · 4. watches · 5. has
 

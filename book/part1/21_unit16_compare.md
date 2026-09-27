@@ -425,7 +425,7 @@
 10. *Crowded* means: (a) lleno de gente (b) tranquilo
 
 **EN:** 8 or more right → go on to Unit 17. Fewer than 8 → re-read Sections A2–A6 and do E3 again.
-**ES:** 8 o más bien → pasa a la Unidad 17. Menos de 8 → vuelve a leer las Secciones A2–A6 y repite E3.
+**ES:** 8 o más aciertos → pasa a la Unidad 17. Menos de 8 → vuelve a leer las Secciones A2–A6 y repite E3.
 
 ---
 

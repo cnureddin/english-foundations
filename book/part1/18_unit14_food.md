@@ -177,7 +177,7 @@
 | How much is this juice? | It's $12.99. | "twelve ninety-nine" |
 | How much is a banana? | It's 75¢. | "seventy-five cents" |
 
-**⚠ Spanish trap / Trampa del español:** Spanish writes *4,50 $* or *$4,50*; English writes **$4.50** — a point, not a comma, and the $ goes first. / El español escribe *4,50 $* o *$4,50*; el inglés escribe **$4.50** — punto, no coma, y el $ va primero.
+**⚠ Spanish trap / Trampa del español:** many Spanish-speaking countries write *4,50 $* or *$4,50*; English writes **$4.50** — a point, not a comma, and the $ goes first. / Muchos países hispanohablantes escriben *4,50 $* o *$4,50*; el inglés escribe **$4.50** — punto, no coma, y el $ va primero.
 
 **Mini-practice 3 / Mini-práctica 3** — Write *much* or *many*. / Escribe *much* o *many*.
 
@@ -434,7 +434,7 @@
 10. A suggestion: ___ go to the park!
 
 **EN:** 8 or more right → go on to Unit 15. Fewer than 8 → re-read Sections A1–A3 and do E1 and E3 again.
-**ES:** 8 o más bien → pasa a la Unidad 15. Menos de 8 → vuelve a leer las Secciones A1–A3 y repite E1 y E3.
+**ES:** 8 o más aciertos → pasa a la Unidad 15. Menos de 8 → vuelve a leer las Secciones A1–A3 y repite E1 y E3.
 
 ---
 

@@ -160,7 +160,7 @@
 
 ### Model / Modelo
 
-> Last month was a lot of fun. On a Saturday night, Ana and I went to a salsa concert downtown. We took the train after dinner. The music was fantastic, and we danced for three hours! I didn't know many songs, but Ana knew all of them. After the concert we ate tacos, and I got home at midnight. Next month is going to be quieter. I'm going to study for my English test. On May 16, Mrs. Park and I are taking a Korean cooking class. I think it will be fun — and delicious! — *Lucía*
+> Last month was a lot of fun. On a Saturday night, Ana and I went to a salsa concert downtown. We took the train after dinner. The music was fantastic, and we danced for three hours! I didn't know many songs, but Ana knew all of them. After the concert we ate tacos, and I got home at midnight. Next month is going to be quiet. I'm going to study for my English test. On May 16, Mrs. Park and I are taking a Korean cooking class. I think it will be fun — and delicious! — *Lucía*
 
 ### Your turn / Tu turno
 
@@ -249,7 +249,7 @@
 
 **C2:** 1. Walk. Don't run. Don't touch. · 2. "Mateo, you are a dinosaur teacher!" · 3. Grandma Rosa. · 4. The lions and the gorillas. · 5. She will help him with his report.
 
-**C3:** 1. Irregular (any 6): went → go · left → leave · were / was → be · took → take · told → tell · saw → see · knew → know · said → say · ate → eat · made → make · had → have · bought → buy · paid → pay — Regular (any 3): lived → live · laughed → laugh · visited → visit · 2. *we're going to visit the zoo* (going to) · *I'm going to see the lions and the gorillas* (going to) · *I'm going to write a report* (going to) · *Leo's mom is coming with us* (present continuous) · *she will help me with my report* (will) · *I think the zoo will be fun* (will) · *nothing will be like Sue* (will) — any 4 · 3. *I goed* → ✓ *I went*: *go* is irregular, so it doesn't take -ed.
+**C3:** 1. Irregular (any 6): went → go · left → leave · were → be · took → take · told → tell · saw → see · knew → know · said → say · ate → eat · made → make · had → have · bought → buy · paid → pay — Regular (any 3): lived → live · laughed → laugh · visited → visit · 2. *we're going to visit the zoo* (going to) · *I'm going to see the lions and the gorillas* (going to) · *I'm going to write a report* (going to) · *Leo's mom is coming with us* (present continuous) · *she will help me with my report* (will) · *I think the zoo will be fun* (will) · *nothing will be like Sue* (will) — any 4 · 3. *I goed* → ✓ *I went*: *go* is irregular, so it doesn't take -ed.
 
 **D (example):** Last month was busy. On Sunday, April 5, I visited my aunt in Houston. First, we took a bus to the city center. Then we ate lunch in a Mexican restaurant. I didn't buy anything, but my aunt bought a new dress. After that, we walked by the river, and it was beautiful. Next month I'm going to paint my bedroom. On May 20, I'm meeting my cousin at the airport. I think it will be a great month. I'm not going to work on the weekends.
 

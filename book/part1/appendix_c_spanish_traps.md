@@ -29,7 +29,7 @@
 | present for "now" | I cook now. | I**'m cooking** now. | 8 |
 | continuous with *know / want* | I'm knowing. | I **know**. | 8 |
 | past after *did* | Did you went? | Did you **go**? | 11 |
-| *ir a* + infinitive | I go to travel. | I**'m going to** travel. | 12 |
+| *ir a* + infinitive | I going to travel. | I **am** going to travel. | 12 |
 | modal + *to* | I can to swim. | I can **swim**. | 13 |
 | modal with *do* | I don't can. | I **can't**. | 13 |
 | *para* + infinitive | for learn | **to** learn | 15 |
@@ -67,4 +67,4 @@
 | languages and nationalities | spanish, colombian | **Spanish**, **Colombian** | 2 |
 | *en primer lugar* | In first place, … | **First,** … / **First of all,** … | 18 |
 | *actualmente* | Actually I live in Chicago. | **Now / Currently** I live in Chicago. | 1 |
-| *al final* | Finally they married. (story) | **In the end,** they got married. | 18 |
+| *al final* (de una lista) | At the end, it is cheap. | **Finally,** it is cheap. | 18 |

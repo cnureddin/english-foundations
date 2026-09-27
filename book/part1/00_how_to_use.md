@@ -2,7 +2,7 @@
 
 **EN:** Welcome. This book takes you from zero to a solid **A2** level in English in **24 weeks**. You study **3 days a week, about 45 minutes a day**. There is no teacher: the book explains, gives practice, gives the answers, and tells you exactly what to do each day. You already hear English every day — at work, on TV, on your phone. This book gives you the **foundations** so that all that English starts to make sense.
 
-**ES:** Bienvenido/a. Este libro te lleva de cero a un nivel **A2** sólido de inglés en **24 semanas**. Estudias **3 días por semana, unos 45 minutos por día**. No hay profesor: el libro explica, te da práctica, te da las respuestas y te dice exactamente qué hacer cada día. Ya escuchas inglés todos los días — en el trabajo, en la tele, en el teléfono. Este libro te da los **fundamentos** para que todo ese inglés empiece a tener sentido.
+**ES:** Te damos la bienvenida. Este libro te lleva de cero a un nivel **A2** sólido de inglés en **24 semanas**. Estudias **3 días por semana, unos 45 minutos por día**. No hay profesor: el libro explica, te da práctica, te da las respuestas y te dice exactamente qué hacer cada día. Ya escuchas inglés todos los días — en el trabajo, en la tele, en el teléfono. Este libro te da los **fundamentos** para que todo ese inglés empiece a tener sentido.
 
 ---
 
@@ -44,7 +44,7 @@
 | **Day 1** | Grammar | Read Section A slowly; do every mini-practice; check the key | 30 |
 | | Vocabulary (first look) | Read Section B aloud once; copy 10 words into your notebook | 15 |
 | **Day 2** | Vocabulary | Cover the Spanish column and test yourself; write 5 words in your own sentences | 10 |
-| | Reading | Section C: before-reading → read twice → C1–C3 → check | 25 |
+| | Reading | Section C: before-reading → read twice → C1–C3 (Unit 11: C1–C4) → check | 25 |
 | | Grammar | Section E, first two blocks | 10 |
 | **Day 3** | Practice | Section E, last blocks → check | 10 |
 | | Writing | Section D: model → your text → checklist | 25 |
@@ -57,6 +57,10 @@
 | **Day 1** | A · Grammar mix + B · Vocabulary review | 45 |
 | **Day 2** | C · Longer reading + your vocabulary notebook | 45 |
 | **Day 3** | D · Writing + E · Progress check (score it!) | 45 |
+
+**EN:** The Final review (week 24) is a little different: on Day 1, Section A is the A2 can-do checklist, and the Progress check has 40 items. Follow the plan on its first page.
+
+**ES:** El Repaso final (semana 24) es un poco distinto: el Día 1, la Sección A es la lista de logros A2, y el Control de progreso tiene 40 ítems. Sigue el plan de su primera página.
 
 ### The other four days / Los otros cuatro días
 
@@ -165,32 +169,32 @@ Then read the text **aloud** one more time. Your mouth also needs to learn Engli
 
 **ES:** Marca una casilla al terminar cada día. Escribe tu nota de Autoevaluación (F) o de Control de progreso (E) en la última columna.
 
-| Wk | Chapter | Day 1 | Day 2 | Day 3 | Score |
-|---|---|---|---|---|---|
-| 1 | Unit 1 | ☐ | ☐ | ☐ | ___ /10 |
-| 2 | Unit 2 | ☐ | ☐ | ☐ | ___ /10 |
-| 3 | Unit 3 | ☐ | ☐ | ☐ | ___ /10 |
-| 4 | Review A | ☐ | ☐ | ☐ | ___ /20 |
-| 5 | Unit 4 | ☐ | ☐ | ☐ | ___ /10 |
-| 6 | Unit 5 | ☐ | ☐ | ☐ | ___ /10 |
-| 7 | Unit 6 | ☐ | ☐ | ☐ | ___ /10 |
-| 8 | Review B | ☐ | ☐ | ☐ | ___ /20 |
-| 9 | Unit 7 | ☐ | ☐ | ☐ | ___ /10 |
-| 10 | Unit 8 | ☐ | ☐ | ☐ | ___ /10 |
-| 11 | Unit 9 | ☐ | ☐ | ☐ | ___ /10 |
-| 12 | Review C | ☐ | ☐ | ☐ | ___ /20 |
-| 13 | Unit 10 | ☐ | ☐ | ☐ | ___ /10 |
-| 14 | Unit 11 | ☐ | ☐ | ☐ | ___ /10 |
-| 15 | Unit 12 | ☐ | ☐ | ☐ | ___ /10 |
-| 16 | Review D | ☐ | ☐ | ☐ | ___ /20 |
-| 17 | Unit 13 | ☐ | ☐ | ☐ | ___ /10 |
-| 18 | Unit 14 | ☐ | ☐ | ☐ | ___ /10 |
-| 19 | Unit 15 | ☐ | ☐ | ☐ | ___ /10 |
-| 20 | Review E | ☐ | ☐ | ☐ | ___ /20 |
-| 21 | Unit 16 | ☐ | ☐ | ☐ | ___ /10 |
-| 22 | Unit 17 | ☐ | ☐ | ☐ | ___ /10 |
-| 23 | Unit 18 | ☐ | ☐ | ☐ | ___ /10 |
-| 24 | Final review | ☐ | ☐ | ☐ | ___ /40 |
+| Week · Chapter | Day 1 | Day 2 | Day 3 | Score |
+|---|---|---|---|---|
+| 1 · Unit 1 | ☐ | ☐ | ☐ | ___ /10 |
+| 2 · Unit 2 | ☐ | ☐ | ☐ | ___ /10 |
+| 3 · Unit 3 | ☐ | ☐ | ☐ | ___ /10 |
+| 4 · Review A | ☐ | ☐ | ☐ | ___ /20 |
+| 5 · Unit 4 | ☐ | ☐ | ☐ | ___ /10 |
+| 6 · Unit 5 | ☐ | ☐ | ☐ | ___ /10 |
+| 7 · Unit 6 | ☐ | ☐ | ☐ | ___ /10 |
+| 8 · Review B | ☐ | ☐ | ☐ | ___ /20 |
+| 9 · Unit 7 | ☐ | ☐ | ☐ | ___ /10 |
+| 10 · Unit 8 | ☐ | ☐ | ☐ | ___ /10 |
+| 11 · Unit 9 | ☐ | ☐ | ☐ | ___ /10 |
+| 12 · Review C | ☐ | ☐ | ☐ | ___ /20 |
+| 13 · Unit 10 | ☐ | ☐ | ☐ | ___ /10 |
+| 14 · Unit 11 | ☐ | ☐ | ☐ | ___ /10 |
+| 15 · Unit 12 | ☐ | ☐ | ☐ | ___ /10 |
+| 16 · Review D | ☐ | ☐ | ☐ | ___ /20 |
+| 17 · Unit 13 | ☐ | ☐ | ☐ | ___ /10 |
+| 18 · Unit 14 | ☐ | ☐ | ☐ | ___ /10 |
+| 19 · Unit 15 | ☐ | ☐ | ☐ | ___ /10 |
+| 20 · Review E | ☐ | ☐ | ☐ | ___ /20 |
+| 21 · Unit 16 | ☐ | ☐ | ☐ | ___ /10 |
+| 22 · Unit 17 | ☐ | ☐ | ☐ | ___ /10 |
+| 23 · Unit 18 | ☐ | ☐ | ☐ | ___ /10 |
+| 24 · Final review | ☐ | ☐ | ☐ | ___ /40 |
 
 ---
 
@@ -200,4 +204,4 @@ Then read the text **aloud** one more time. Your mouth also needs to learn Engli
 
 **ES:** La Parte 1 termina en **A2**: puedes hablar y escribir sobre ti, tu familia, tu trabajo, tu pasado y tus planes con oraciones simples y correctas, y leer textos cotidianos cortos. La **Parte 2** (B1) y la **Parte 3** (B2–C1) continúan con el mismo método — y con la historia de Lucía.
 
-*Ready? Turn the page. Week 1, Day 1. / ¿Listo/a? Pasa la página. Semana 1, Día 1.*
+*Ready? Turn the page. Week 1, Day 1. / ¿Empezamos? Pasa la página. Semana 1, Día 1.*

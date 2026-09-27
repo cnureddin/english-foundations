@@ -188,7 +188,7 @@
 |---|---|---|
 | **The body / El cuerpo** | | |
 | head / face | cabeza / cara | My head hurts. |
-| eye / ear | ojo / oído, oreja | Dr. Patel looked at his ears. |
+| eye / ear | ojo / oído, oreja | Dr. Patel looked at Mateo's ears. |
 | nose / mouth | nariz / boca | Open your mouth, please. |
 | throat | garganta | I have a sore throat. |
 | tooth (teeth) | diente (dientes) | Brush your teeth. |
@@ -377,7 +377,7 @@
 10. *Tengo un resfriado* = (a) *I am cold.* (b) *I have a cold.*
 
 **EN:** 8 or more right → go on to Unit 14. Fewer than 8 → re-read Sections A2 and A5 and do E2 and E4 again.
-**ES:** 8 o más bien → pasa a la Unidad 14. Menos de 8 → vuelve a leer las Secciones A2 y A5 y repite E2 y E4.
+**ES:** 8 o más aciertos → pasa a la Unidad 14. Menos de 8 → vuelve a leer las Secciones A2 y A5 y repite E2 y E4.
 
 ---
 

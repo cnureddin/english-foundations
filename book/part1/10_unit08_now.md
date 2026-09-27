@@ -29,9 +29,9 @@
 
 ## A · Grammar / Gramática
 
-**EN:** In Unit 5 you learned the simple present: *Lucía works at a café. Mateo gets up at seven.* In this unit you learn the second present of English: the **present continuous** (*I am working*). It is your first real **two-part engine** from Unit 1 (A3). Then you learn how to choose between the two presents.
+**EN:** In Unit 5 you learned the simple present: *Lucía works at a café. Mateo gets up at a quarter past six.* In this unit you learn the second present of English: the **present continuous** (*I am working*). It is your first real **two-part engine** from Unit 1 (A3). Then you learn how to choose between the two presents.
 
-**ES:** En la Unidad 5 aprendiste el presente simple: *Lucía works at a café. Mateo gets up at seven.* En esta unidad aprendes el segundo presente del inglés: el **presente continuo** (*I am working*). Es tu primer **motor de dos partes** real de la Unidad 1 (A3). Después aprendes a elegir entre los dos presentes.
+**ES:** En la Unidad 5 aprendiste el presente simple: *Lucía works at a café. Mateo gets up at a quarter past six.* En esta unidad aprendes el segundo presente del inglés: el **presente continuo** (*I am working*). Es tu primer **motor de dos partes** real de la Unidad 1 (A3). Después aprendes a elegir entre los dos presentes.
 
 ### A1 · Two presents, two meanings / Dos presentes, dos significados
 
@@ -221,7 +221,7 @@ Spanish often uses the simple present for both. *¿Qué haces?* can mean "What i
 | warm / hot | templado / caluroso | Cali is warm all year. |
 | cold / freezing | frío / helado, bajo cero | It's freezing today! |
 | **Seasons / Estaciones** | | |
-| spring / summer | primavera / verano | Carlos visits in the summer. |
+| spring / summer | primavera / verano | Chicago is warm in the summer. |
 | fall (US) / winter | otoño / invierno | In Chicago, winter is long. |
 | **Clothes / Ropa** | | |
 | coat / jacket | abrigo / chaqueta, chamarra | I need a warm coat. |
@@ -393,10 +393,10 @@ Spanish often uses the simple present for both. *¿Qué haces?* can mean "What i
 7. Choose: *I (drink / am drinking) coffee every morning.*
 8. Choose: *Look! It (snows / is snowing).*
 9. *Hace frío* in English: ___
-10. Two clothes for cold weather: ___, ___
+10. Two words for cold-weather clothes: ___, ___
 
 **EN:** 8 or more right → go on to Unit 9. Fewer than 8 → re-read Sections A2–A5 and do E1 and E3 again.
-**ES:** 8 o más bien → pasa a la Unidad 9. Menos de 8 → vuelve a leer las Secciones A2–A5 y repite E1 y E3.
+**ES:** 8 o más aciertos → pasa a la Unidad 9. Menos de 8 → vuelve a leer las Secciones A2–A5 y repite E1 y E3.
 
 ---
 
@@ -416,7 +416,7 @@ Spanish often uses the simple present for both. *¿Qué haces?* can mean "What i
 
 **C3:** 1. Any 5: *It's snowing* · *I'm looking at it* · *The customers are taking photos* · *Sam is making hot chocolate* · *They are playing in the snow* · *They are making a snowman* · *Mateo is wearing his hat* · *I'm walking home* · *I'm coming* · *I'm using Mrs. Park's phone* · *Leo is wearing my gloves* · *We're having fun* · 2. *I'm not wearing boots* · *he isn't wearing his gloves* · 3. *Are you wearing your new coat?* · 4. *I usually take the bus* — signal word: *usually*.
 
-**D (example):** Hi Ana! I'm at the supermarket now. I'm buying food for the weekend. A man is singing near the fruit. Many people are waiting at the checkout (caja). My son isn't helping — he's playing with his phone! It's cloudy and cold outside. I usually shop on Saturdays, but today I'm shopping on Friday.
+**D (example):** Hi Ana! I'm at the supermarket now. I'm buying food for the weekend. A man is singing near the fruit. Many people are waiting at the checkout (caja). My son isn't helping — he's playing with his phone! It's cloudy and cold outside. I usually shop on Saturdays, but this week I'm shopping on Friday.
 
 **E1:** 1. is crying · 2. drinks / is drinking · 3. don't understand (state verb) · 4. boils (a fact) · 5. are running
 

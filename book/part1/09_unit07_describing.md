@@ -117,6 +117,8 @@
 | He has the eyes black. | He has dark eyes. | His eyes are dark. |
 | She has long hairs. | She has long hair. | — |
 
+⚠ *Ojos negros* → **dark eyes** or **brown eyes**. A *black eye* in English is an eye with a bruise from a hit (un ojo morado)! / *Ojos negros* → **dark eyes** o **brown eyes**. En inglés, *a black eye* es un ojo morado por un golpe.
+
 **EN:** Height and age use *be*, not *have*: *He **is** tall. She **is** 72.* (the *tener* trap, Unit 2)
 
 **ES:** La estatura y la edad usan *be*, no *have*: *He **is** tall* (Es alto). *She **is** 72* (Tiene 72 años). (la trampa de *tener*, Unidad 2)
@@ -355,7 +357,7 @@
 >
 > Mrs. Park is a small woman with short white hair. She always wears glasses. She is a very patient teacher. Every Saturday, she helps me with my English, and she never laughs at my mistakes. She is quite serious, but she is also funny.
 >
-> Mrs. Park is a busy woman. She always gets up at six, and she walks Mateo to school at 6:45. She goes to the library every Monday, and she always has lunch at a Korean restaurant on Wednesdays. She usually watches Korean TV at night. On Tuesday and Thursday evenings, Mateo stays with her. She often makes cookies for him.
+> Mrs. Park is a busy woman. She always gets up at six, and she walks Mateo to school every morning. She goes to the library every Monday, and she always has lunch at a Korean restaurant on Wednesdays. She usually watches Korean TV at night. On Tuesday and Thursday evenings, Mateo stays with her. She often makes cookies for him.
 >
 > Tofu is a big white cat with green eyes. He is very lazy, and he hardly ever runs. He sleeps on the sofa every day, and he is always hungry. Tofu is not friendly with most people, but he loves Mateo.
 >
@@ -479,7 +481,7 @@
 10. Correct it: *I don't never watch TV.* → ___
 
 **EN:** 8 or more right → go on to Unit 8. Fewer than 8 → re-read Sections A1 and A5 and do E2 and E3 again.
-**ES:** 8 o más bien → pasa a la Unidad 8. Menos de 8 → vuelve a leer las Secciones A1 y A5 y repite E2 y E3.
+**ES:** 8 o más aciertos → pasa a la Unidad 8. Menos de 8 → vuelve a leer las Secciones A1 y A5 y repite E2 y E3.
 
 ---
 
@@ -503,7 +505,7 @@
 
 **C3:** 1. Any 5: *a retired math teacher* · *a small woman* · *short white hair* · *a very patient teacher* · *a busy woman* · *a Korean restaurant* · *Korean TV* · *a big white cat* · *green eyes* · *a kind neighbor* · *a good friend* · 2. Any 3: *She is quite serious* · *she is also funny* · *He is very lazy* · *he is always hungry* · *Tofu is not friendly* · 3. *always* (wears, gets up, has lunch), *never* (laughs), *usually* (watches), *often* (makes), *hardly ever* (runs); after *be*: *he is **always** hungry*.
 
-**D (example):** My friend is Rosa. She is a short woman with long wavy hair. She is 45, and she is from Quito, in Ecuador. She is very friendly. She always helps her neighbors. She is never late for work. She calls me once a week. She is a good friend.
+**D (example):** My friend is Julia. She is a short woman with long wavy hair. She is 45, and she is from Quito, in Ecuador. She is very friendly. She always helps her neighbors. She is never late for work. She usually calls me once a week. She is a good friend.
 
 **E1:** 1. Ana is a funny woman. · 2. I have two friendly neighbors. · 3. My brother has short black hair. · 4. Tofu is a big white cat. · 5. Mr. Miller is a very patient teacher.
 

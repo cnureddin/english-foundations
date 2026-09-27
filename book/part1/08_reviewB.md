@@ -118,7 +118,7 @@
 
 *My Week — by Mateo Ramírez, Grade 4, Ms. Johnson's class*
 
-> My name is Mateo Ramírez. I am nine, and I live on Maple Street in Chicago with my mom. Her name is Lucía. She works at the Blue Door Café, and at night she studies English. I help her with her homework! My dad, Andrés, lives in Cali, in Colombia. I talk to him on video on Sundays. My grandmother Rosa and my uncle Carlos live in Cali too. Carlos is an engineer, and he is my hero.
+> My name is Mateo Ramírez. I am nine, and I live on Maple Street in Chicago with my mom. Her name is Lucía. She works at the Blue Door Café, and at night she studies English. I help her with her homework! My dad, Andrés, lives in Cali, in Colombia. I talk to him on a video call on Sundays. My grandmother Rosa and my uncle Carlos live in Cali too. Carlos is an engineer, and he is my hero.
 >
 > On school days, I get up at a quarter past six. I don't like mornings! At a quarter to seven, I go to Mrs. Park's apartment. She is our neighbor, and she has a cat. Its name is Tofu. Mrs. Park walks with me to school. My school is Hawthorne Elementary, and classes start at eight. My best friend, Leo, is in my class. We play soccer at lunch.
 >
@@ -218,7 +218,7 @@
 | Score / Nota | What to do / Qué hacer |
 |---|---|
 | **17–20** | Great! Go on to Unit 7. / ¡Muy bien! Pasa a la Unidad 7. |
-| **12–16** | Re-read Section A of your weak units: items 1–5 → Unit 4 · 6–11 → Unit 5 · 12–16 → Unit 6 · 19–20 → Units 2–3. / Vuelve a leer la Sección A de tus unidades débiles. |
+| **12–16** | Re-read Section A of your weak units: items 1–5 and 17 → Unit 4 · 6–11 → Unit 5 · 12–16 and 18 → Unit 6 · 19–20 → Units 2–3. / Vuelve a leer la Sección A de tus unidades débiles. |
 | **0–11** | Next week, repeat the Self-checks (F) of Units 4, 5 and 6 before Unit 7. / La próxima semana, repite las Autoevaluaciones (F) de las Unidades 4, 5 y 6 antes de la Unidad 7. |
 
 ---
@@ -245,6 +245,6 @@
 
 **C3:** 1. *I help **her*** · *I talk to **him*** · *Mrs. Park walks with **me*** · *help **me*** · *don't tell **her*** · 2. *Mrs. Park's apartment* · *my mom's English* · 3. *I **don't like** mornings!* (also: *don't tell her*) · *Does she help me with my homework? — Yes, she does.* · 4. *on* for a time: *on Sundays* · *On school days* · *On Tuesdays and Thursdays* · *On Saturday mornings*; *at* for a time: *at night* · *at a quarter past six* · *At a quarter to seven* · *at eight* · *at lunch*
 
-**D (example):** I live on Oak Street in Miami with my husband. His name is Jorge. He works at a hospital. On work days, I get up at six. I don't have breakfast at home. On Mondays and Wednesdays, I study English at night. There is a big supermarket near my home. On the weekend, I go to the park and walk. My week is busy, but I like it.
+**D (example):** I live on Oak Street in Miami with my brother. His name is Jorge. He works at a hospital. On work days, I get up at six. I don't have breakfast at home. On Mondays and Wednesdays, I study English at night. There is a big supermarket near my home. On the weekend, I go to the park and walk. My week is busy, but I like it.
 
 **E · Progress check:** 1. them · 2. her · 3. the children's toys · 4. It's · 5. these · 6. goes · 7. Carlos doesn't live in Chicago. · 8. Do they work on Saturdays? · 9. he does · 10. Is · 11. a quarter to nine · 12. in · 13. on · 14. at · 15. going · 16. March second · 17. (a) · 18. (b) · 19. I **am** 32. · 20. are

@@ -173,7 +173,7 @@
 
 1. I'm going to the bank.
 2. We're going to buy a new sofa.
-3. Ana goes dancing on Fridays.
+3. Ana goes dancing on Saturdays.
 4. Carlos is going to stay two weeks.
 
 ### A6 · The present continuous for arrangements / El presente continuo para citas fijas
@@ -347,7 +347,7 @@
 
 > Hi Lucía,
 >
-> Next month is going to be very busy! My sister Elena is coming from Guadalajara on May 3. She's staying with me for ten days. We're going to go sightseeing downtown, and we're going to take a boat tour on the river. On May 9, we're having lunch with my cousins. I'm going to take a week off from the hospital. I'm not going to study much — sorry, Mr. Miller! I think Elena will love Chicago. Are you free on Saturday, May 10? I'll cook tamales for everyone!
+> Next month is going to be very busy! My sister Elena is coming from Guadalajara on May 3. She's staying with me for ten days. We're going to go sightseeing downtown, and we're going to take a boat tour on the river. On May 9, we're having lunch with my cousins. I'm going to take a week off from the hospital. I'm not going to study much — sorry, Mr. Miller! I think Elena will love Chicago. Are you free on Sunday, May 10? I'll cook tamales for everyone!
 >
 > Hugs, Ana
 
@@ -437,7 +437,7 @@
 10. *Viaje* (noun): *a travel* or *a trip*? ___
 
 **EN:** 8 or more right → go on to Review D. Fewer than 8 → re-read Sections A1–A5 and do E2 again.
-**ES:** 8 o más bien → pasa al Repaso D. Menos de 8 → vuelve a leer las Secciones A1–A5 y repite E2.
+**ES:** 8 o más aciertos → pasa al Repaso D. Menos de 8 → vuelve a leer las Secciones A1–A5 y repite E2.
 
 ---
 

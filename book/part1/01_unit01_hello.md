@@ -225,16 +225,18 @@ Cuando veas una de estas palabras pequeñas, recuerda: no está sola — es **pa
 | word / sentence | palabra / oración | Write a sentence. |
 | question / answer | pregunta / respuesta | I have a question. |
 | page | página | Open your book to page 10. |
-| Sorry? / Can you repeat, please? | ¿Perdón? / ¿Puede repetir, por favor? | Sorry? Can you repeat, please? |
+| Sorry? / Can you repeat that, please? | ¿Perdón? / ¿Puede repetir, por favor? | Sorry? Can you repeat, please? |
 | What does *…* mean? | ¿Qué significa…? | What does *spell* mean? |
 | I don't understand. | No entiendo. | Sorry, I don't understand. |
 
 **Numbers 0–20 / Números 0–20**
 
-| 0 zero | 1 one | 2 two | 3 three | 4 four | 5 five | 6 six |
-|---|---|---|---|---|---|---|
-| 7 seven | 8 eight | 9 nine | 10 ten | 11 eleven | 12 twelve | 13 thirteen |
-| 14 fourteen | 15 fifteen | 16 sixteen | 17 seventeen | 18 eighteen | 19 nineteen | 20 twenty |
+| 0 zero | 1 one | 2 two | 3 three | 4 four |
+|---|---|---|---|---|
+| 5 five | 6 six | 7 seven | 8 eight | 9 nine |
+| 10 ten | 11 eleven | 12 twelve | 13 thirteen | 14 fourteen |
+| 15 fifteen | 16 sixteen | 17 seventeen | 18 eighteen | 19 nineteen |
+| 20 twenty | | | | |
 
 ### The alphabet / El alfabeto
 
@@ -290,9 +292,9 @@ Cuando veas una de estas palabras pequeñas, recuerda: no está sola — es **pa
 **C2 · Answer the questions / Responde las preguntas** (short answers are fine / respuestas cortas están bien)
 
 1. What is Lucía's last name?
-2. Where does she live — which street?
-3. Where does she work?
-4. What does she like? (two things)
+2. Where does she live — which street? (¿Dónde vive — en qué calle?)
+3. Where does she work? (¿Dónde trabaja?)
+4. What does she like? (two things) (¿Qué le gusta? — dos cosas)
 
 **C3 · Grammar hunt / Caza gramatical**
 
@@ -384,7 +386,7 @@ Cuando veas una de estas palabras pequeñas, recuerda: no está sola — es **pa
 10. *Actually* means: (a) actualmente (b) en realidad
 
 **EN:** 8 or more right → go on to Unit 2. Fewer than 8 → re-read Sections A1–A2 and do E2 again.
-**ES:** 8 o más bien → pasa a la Unidad 2. Menos de 8 → vuelve a leer las Secciones A1–A2 y repite E2.
+**ES:** 8 o más aciertos → pasa a la Unidad 2. Menos de 8 → vuelve a leer las Secciones A1–A2 y repite E2.
 
 ---
 

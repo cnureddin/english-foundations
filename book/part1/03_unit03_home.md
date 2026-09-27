@@ -48,9 +48,9 @@
 | vowel + y → + **s** | key → keys, day → days, boy → boys |
 | -f / -fe → **-ves** | shelf → shelves, knife → knives, wife → wives |
 
-**EN:** The **-es** ending adds a small sound, like *iz*: *bus-es, box-es, dish-es*. Other plurals don't add a sound: *room-s, chair-s*.
+**EN:** The **-es** ending adds a small sound, like *iz*: *bus-es, box-es, dish-es*. Other plurals add only the *s*, not a new syllable: *room-s, chair-s*.
 
-**ES:** La terminación **-es** añade un sonido pequeño, como *iz*: *bus-es, box-es, dish-es*. Los otros plurales no añaden un sonido: *room-s, chair-s*.
+**ES:** La terminación **-es** añade un sonido pequeño, como *iz*: *bus-es, box-es, dish-es*. Los otros plurales solo añaden la *s*, no una sílaba nueva: *room-s, chair-s*.
 
 **Irregular plurals — memorize / Plurales irregulares — memorízalos**
 
@@ -261,9 +261,9 @@
 | a lot of | a lot of books | a lot of furniture |
 | ✗ never | ~~some chair~~ | ~~a lot of furnitures~~ |
 
-**EN:** Remember: the noun decides the verb. *A lot of books* → *there **are***. *A lot of furniture* → *there **is***. More quantity words (*any, much, many*) come in Unit 14.
+**EN:** Remember: the noun decides the verb. *A lot of books* → *there **are***. *A lot of furniture* → *there **is***. You meet *How much? / How many?* in Unit 9, and more quantity words (*any, much, many*) in Unit 14.
 
-**ES:** Recuerda: el sustantivo decide el verbo. *A lot of books* → *there **are***. *A lot of furniture* → *there **is***. Más palabras de cantidad (*any, much, many*) llegan en la Unidad 14.
+**ES:** Recuerda: el sustantivo decide el verbo. *A lot of books* → *there **are***. *A lot of furniture* → *there **is***. Conoces *How much? / How many?* en la Unidad 9, y más palabras de cantidad (*any, much, many*) en la Unidad 14.
 
 **Mini-practice 5 / Mini-práctica 5** — Choose. / Elige.
 
@@ -452,7 +452,7 @@
 10. *Carpet* means: (a) carpeta (b) alfombra
 
 **EN:** 8 or more right → go on to Review A. Fewer than 8 → re-read Sections A2–A4 and do E2–E3 again.
-**ES:** 8 o más bien → pasa al Repaso A. Menos de 8 → vuelve a leer las Secciones A2–A4 y repite E2–E3.
+**ES:** 8 o más aciertos → pasa al Repaso A. Menos de 8 → vuelve a leer las Secciones A2–A4 y repite E2–E3.
 
 ---
 

@@ -80,4 +80,5 @@ To do before writing:
 - [ ] Audio: record or link read-aloud versions of the 24 readings.
 - [ ] A cumulative A1–A2 word list (all Section B tables) as an appendix — can be generated from the unit tables.
 - [ ] Printable one-page "seats" poster.
+- [x] Internal proofreading pass: answer keys, English, Spanish, level, story continuity — see `part1/PROOFREADING_LOG.md`.
 - [ ] Get a native-speaker and a Spanish-speaking teacher to review Units 1–18.

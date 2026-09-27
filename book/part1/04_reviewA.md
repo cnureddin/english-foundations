@@ -6,7 +6,7 @@
 
 **EN:** No new grammar this week. You review Units 1–3, read a longer text, write a longer message, and test yourself. This week tells you if your foundations are solid. Be honest with your score: it tells you what to study again.
 
-**ES:** Esta semana no hay gramática nueva. Repasas las Unidades 1–3, lees un texto más largo, escribes un mensaje más largo y te pones a prueba. Esta semana te dice si tus fundamentos son sólidos. Sé honesto/a con tu nota: te dice qué estudiar otra vez.
+**ES:** Esta semana no hay gramática nueva. Repasas las Unidades 1–3, lees un texto más largo, escribes un mensaje más largo y te pones a prueba. Esta semana te dice si tus fundamentos son sólidos. Pon tu nota con honestidad: te dice qué estudiar otra vez.
 
 ## Your week / Tu semana
 
@@ -146,7 +146,7 @@
 2. What is the name of Mrs. Park's cat?
 3. What is the name of Mateo's school?
 4. When is Lucía's English class?
-5. Write Lucía's two questions to her mother.
+5. Write the two questions at the end of Lucía's message.
 
 **C3 · Grammar hunt / Caza gramatical** (Units 1–3)
 

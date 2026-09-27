@@ -404,7 +404,7 @@ Answers / Respuestas: `Yes, I + am / do / can.` · `No, I + 'm not / don't / can
 10. *huésped* in English: ___
 
 **EN:** 8 or more right → go on to Review C. Fewer than 8 → re-read Sections A1–A4 and do E1 and E4 again.
-**ES:** 8 o más bien → pasa al Repaso C. Menos de 8 → vuelve a leer las Secciones A1–A4 y repite E1 y E4.
+**ES:** 8 o más aciertos → pasa al Repaso C. Menos de 8 → vuelve a leer las Secciones A1–A4 y repite E1 y E4.
 
 ---
 

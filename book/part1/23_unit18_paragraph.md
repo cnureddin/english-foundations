@@ -434,7 +434,7 @@ FIRST NAME + LAST NAME
 10. *Attachment* means: (a) archivo adjunto (b) apego
 
 **EN:** 8 or more right → go on to the Final review. Fewer than 8 → re-read Sections A1–A3 and A6, and do E3 again.
-**ES:** 8 o más bien → pasa al Repaso final. Menos de 8 → vuelve a leer las Secciones A1–A3 y A6, y repite E3.
+**ES:** 8 o más aciertos → pasa al Repaso final. Menos de 8 → vuelve a leer las Secciones A1–A3 y A6, y repite E3.
 
 ---
 
@@ -452,7 +452,7 @@ FIRST NAME + LAST NAME
 
 **C3:** 1. *First, · Second, · In addition, · Finally,* · 2. example: *For example,* · contrast: *However,* · 3. *For these reasons, I think this was the most important year of my life.* — an opinion (*I think*, *the most important*) · 4. Three of: *Dear Ms. Rivera,* · *I am writing to ask for…* · *Could I work…?* · *Thank you for your time.* · *Please let me know if…* · *I look forward to hearing from you.* · *Best regards,*
 
-**D (example, Task 1):** This year my English changed in three ways. First, I can talk to my neighbors. Last year, I only said "Hello." Now I talk to them about the weather and our kids. Second, I understand more on TV. For example, I watch the news in English every morning. Finally, and most important, I am not afraid of mistakes. I make many mistakes, but I learn from them. My English is not perfect. However, it is much better than last year. For these reasons, I think my year was a success.
+**D (example, Task 1):** This year my English changed in three ways. First, I can talk to my neighbors. Last year, I only said "Hello." Now I talk to them about the weather and our kids. Second, I understand more on TV. For example, I watch the news in English every morning. I also understand some songs on the radio. Finally, and most important, I am not afraid of mistakes. I make many mistakes, but I learn from them. My teacher says this is normal. My English is not perfect. However, it is much better than last year. For these reasons, I think my year was a success.
 
 **D (example, Task 2):** *Subject:* Class schedule · Dear Mr. Brown, I am writing to ask about the next English course. Could you tell me the days and times? I work until 5 p.m., so I need a night class. Thank you for your help. Please let me know if there is a class on Tuesdays. I look forward to hearing from you. Best regards, Pedro Gómez
 

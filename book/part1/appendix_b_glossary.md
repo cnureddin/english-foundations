@@ -15,6 +15,7 @@
 | base form | forma base | the verb with nothing added: *go, eat* | 1 |
 | clause | cláusula | a group of words with one engine (S + V) | 17 |
 | comma | coma | the sign **,** | 17 |
+| comma splice | coma entre dos oraciones | two sentences joined only by a comma (a mistake) | 17 |
 | comparative | comparativo | *bigger, more expensive* | 16 |
 | complex sentence | oración compleja | main clause + *because / when…* clause | 17 |
 | compound sentence | oración compuesta | two clauses joined by *and, but, so, or* | 17 |
@@ -41,19 +42,19 @@
 | object pronoun | pronombre de objeto | *me, him, her, us, them* | 4 |
 | ordinal number | número ordinal | *first, second, third* | 6 |
 | paragraph | párrafo | a group of sentences about one idea | 18 |
-| past simple | pasado simple | *worked, went* | 10, 11 |
 | plural | plural | more than one: *books* | 3 |
 | possessive | posesivo | *my, your, mine*; *Lucía's* | 4 |
 | preposition | preposición | *in, on, at, to, with* | 1, 6 |
 | present continuous | presente continuo | *am/is/are* + -ing | 8 |
-| present simple | presente simple | *I work, she works* | 5 |
 | pronoun | pronombre | *I, you, he, she, it, we, they* | 1, 4 |
 | question word | palabra interrogativa | *what, where, when, who, why, how* | 9 |
 | run-on sentence | oración corrida | two sentences with no connector or full stop | 17 |
 | seat | asiento | this book's name for a sentence position | 1 |
 | short answer | respuesta corta | *Yes, I do. / No, she isn't.* | 2, 5 |
+| simple past | pasado simple | *worked, went* | 10, 11 |
+| simple present | presente simple | *I work, she works* | 5 |
 | singular | singular | one: *book* | 3 |
-| stative verb | verbo de estado | not used in continuous: *know, like, want* | 8 |
+| state verb (stative verb) | verbo de estado | not used in continuous: *know, like, want* | 8 |
 | subject | sujeto | who/what does the action | 1 |
 | subject pronoun | pronombre de sujeto | *I, he, she, we, they* | 4 |
 | superlative | superlativo | *the biggest, the most expensive* | 16 |

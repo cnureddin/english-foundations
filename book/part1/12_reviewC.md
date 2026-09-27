@@ -203,11 +203,11 @@ Questions / Preguntas: `QU + A + S + M + …?` — for example: `What + are + yo
 17. Correct it: *Where she works?* → ___
 18. ___ is your interview? — At ten o'clock.
 19. There ___ (is / are) two guests at the front desk.
-20. My neighbor has ___ cat. ___ cat's name is Tofu. *(a / an · Her / His)*
+20. My neighbor, Mrs. Park, has ___ cat. ___ cat's name is Tofu. *(a / an · Her / His)*
 
-**EN:** Score / Nota: **17–20** → go on to Unit 10. **12–16** → re-read Section A of your weak units (look at which items you got wrong: 1–7 = Unit 7, 8–13 = Unit 8, 14–18 = Unit 9), then go on. **Fewer than 12** → next week, repeat the Self-checks (Section F) of Units 7, 8 and 9 before Unit 10.
+**EN:** Score / Nota: **17–20** → go on to Unit 10. **12–16** → re-read Section A of your weak units (look at which items you got wrong: 1–7 = Unit 7, 8–13 = Unit 8, 14–18 = Unit 9, 19–20 = Units 3–4), then go on. **Fewer than 12** → next week, repeat the Self-checks (Section F) of Units 7, 8 and 9 before Unit 10.
 
-**ES:** **17–20** → pasa a la Unidad 10. **12–16** → vuelve a leer la Sección A de tus unidades débiles (mira qué ítems fallaste: 1–7 = Unidad 7, 8–13 = Unidad 8, 14–18 = Unidad 9) y luego sigue. **Menos de 12** → la próxima semana, repite las Autoevaluaciones (Sección F) de las Unidades 7, 8 y 9 antes de la Unidad 10.
+**ES:** **17–20** → pasa a la Unidad 10. **12–16** → vuelve a leer la Sección A de tus unidades débiles (mira qué ítems fallaste: 1–7 = Unidad 7, 8–13 = Unidad 8, 14–18 = Unidad 9, 19–20 = Unidades 3–4) y luego sigue. **Menos de 12** → la próxima semana, repite las Autoevaluaciones (Sección F) de las Unidades 7, 8 y 9 antes de la Unidad 10.
 
 ---
 
@@ -233,6 +233,6 @@ Questions / Preguntas: `QU + A + S + M + …?` — for example: `What + are + yo
 
 **C3:** 1. Any 4: *curly dark hair* · *a big smile* · *a very hard-working person* · *Colombian food* · *cold weather* · *a new job* · *a new computer system* · *a big hotel* · 2. *always* (is always on time, always says), *never* (forgets, stops), *sometimes* (tells), *often* (cooks), *usually* (walk); after *be*: *She is **always** on time* · 3. Any 4: *I'm writing* · *it's snowing* · *she is wearing* · *is changing* · *She is learning* · *she is meeting* · 4. *Do you have…?* → *do* · *What is your friend like?* → *is* (*be* alone) · *How often do you see…?* → *do*
 
-**D (example):** Marta is my coworker. She is from Lima, and she is 29. She has short black hair and big brown eyes. She is a really friendly person. She always helps new workers. She is never in a bad mood (de mal humor). She plays volleyball twice a week. These days, she is studying for a nursing exam. Right now, she is visiting her family in Peru. Questions: 1. What are you doing in Peru? 2. How often do you study? 3. Can we have coffee next week?
+**D (example):** Marta is my coworker. She is from Lima, and she is 29. She has short black hair and big brown eyes. She is a really friendly person. She always helps new workers. She is never in a bad mood (de mal humor). She usually plays volleyball twice a week. These days, she is studying for a nursing exam. Right now, she is visiting her family in Peru. Questions: 1. What are you doing in Peru? 2. How often do you study? 3. Can we have coffee next week?
 
 **E:** 1. He is a tall man. · 2. two funny girls · 3. a big white cat · 4. She is never late. · 5. Mateo usually plays soccer on Saturdays. · 6. once a week · 7. hard-working · 8. swimming · 9. writing · 10. is snowing · 11. makes (every morning = habit) · 12. Is he sleeping? · 13. I know the answer. · 14. What are you doing right now? · 15. How many languages do you speak? · 16. Who writes a blog? · 17. Where does she work? · 18. When (or What time) · 19. are · 20. a · Her

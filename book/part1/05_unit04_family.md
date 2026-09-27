@@ -314,7 +314,7 @@ Usa una herramienta a la vez. Nunca las dos: ✗ *This is mine photo.*
 >
 > "Is this Mateo's father?"
 >
-> "Yes, that's Andrés. He lives in Cali too. We are separated, but he is a good father. Mateo talks to him on video every Sunday."
+> "Yes, that's Andrés. He lives in Cali too. We are separated, but he is a good father. Mateo talks to him on a video call every Sunday."
 >
 > Mateo runs into the kitchen. "Look at these photos, Mrs. Park! They're mine. This is my best friend, Leo, and those are our toy dinosaurs!"
 >
@@ -430,8 +430,8 @@ Usa una herramienta a la vez. Nunca las dos: ✗ *This is mine photo.*
 9. The son of your brother is your ___.
 10. Correct it: *Mine phone is new.* → ___
 
-**EN:** 8 or more right → go on to Unit 5. Fewer than 8 → re-read Sections A1–A3 and do E1 and E4 again.
-**ES:** 8 o más bien → pasa a la Unidad 5. Menos de 8 → vuelve a leer las Secciones A1–A3 y repite E1 y E4.
+**EN:** 8 or more right → go on to Unit 5. Fewer than 8 → re-read Sections A1–A4 and do E1 and E4 again.
+**ES:** 8 o más aciertos → pasa a la Unidad 5. Menos de 8 → vuelve a leer las Secciones A1–A4 y repite E1 y E4.
 
 ---
 
@@ -451,7 +451,7 @@ Usa una herramienta a la vez. Nunca las dos: ✗ *This is mine photo.*
 
 **C3:** 1. *looks at **them*** · *Mateo loves **him*** · *talks to **him*** · 2. *Lucía's kitchen* · *Mateo's father* · 3. Examples: ***this** woman* · ***That's** my mother* · ***this** tall man* · ***That's** Carlos* · *Is **this** Mateo's father?* · ***these** photos* · ***This** is my best friend* · ***those** are our toy dinosaurs* · 4. ***Its** eyes are green* (possession) · ***it's** the boss* = *it is* the boss
 
-**D (example):** This is my family. My mother's name is Elena. She is fifty-five, and she is a cook. My brother's name is Luis. His hair is short and dark. My grandmother is eighty. I call her every Sunday.
+**D (example):** This is my family. My mother's name is Elena. She is fifty-five, and she is a cook. My brother's name is Luis. His hair is short and dark, and I love him. My grandmother is eighty. I call her every Sunday.
 
 **E1:** 1. She / me · 2. We / them · 3. me · 4. I · 5. us
 

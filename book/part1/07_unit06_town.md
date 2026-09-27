@@ -149,9 +149,9 @@
 | 13th thirteenth | 20th twentieth | 21st twenty-first | 22nd twenty-second |
 | 23rd twenty-third | 24th twenty-fourth | 30th thirtieth | 31st thirty-first |
 
-**EN:** The rule: most numbers + **-th**. Special: *first, second, third*, and *fifth, ninth, twelfth* (spelling changes). Numbers in *-ty* → *-tieth* (*twentieth*). The short form uses the last two letters: 1**st**, 2**nd**, 3**rd**, 4**th**, 21**st**.
+**EN:** The rule: most numbers + **-th**. Special: *first, second, third*, and *fifth, eighth, ninth, twelfth* (spelling changes). Numbers in *-ty* → *-tieth* (*twentieth*). The short form uses the last two letters: 1**st**, 2**nd**, 3**rd**, 4**th**, 21**st**.
 
-**ES:** La regla: la mayoría de los números + **-th**. Especiales: *first, second, third*, y *fifth, ninth, twelfth* (cambia la ortografía). Los números en *-ty* → *-tieth* (*twentieth*). La forma corta usa las dos últimas letras: 1**st**, 2**nd**, 3**rd**, 4**th**, 21**st**.
+**ES:** La regla: la mayoría de los números + **-th**. Especiales: *first, second, third*, y *fifth, eighth, ninth, twelfth* (cambia la ortografía). Los números en *-ty* → *-tieth* (*twentieth*). La forma corta usa las dos últimas letras: 1**st**, 2**nd**, 3**rd**, 4**th**, 21**st**.
 
 **Saying dates / Decir fechas**
 
@@ -402,7 +402,7 @@
 10. *Library* in Spanish: ___
 
 **EN:** 8 or more right → go on to Review B. Fewer than 8 → re-read Sections A2–A4 and do E1 and E2 again.
-**ES:** 8 o más bien → pasa al Repaso B. Menos de 8 → vuelve a leer las Secciones A2–A4 y repite E1 y E2.
+**ES:** 8 o más aciertos → pasa al Repaso B. Menos de 8 → vuelve a leer las Secciones A2–A4 y repite E1 y E2.
 
 ---
 
