@@ -23,7 +23,7 @@ Review weeks (4, 8, 12, 16, 20, 24) mix everything, with a longer reading, a lon
 
 ## Build the PDF
 
-Needs [Pandoc](https://pandoc.org/installing.html) ≥ 3 and XeLaTeX (TeX Live, MacTeX or TinyTeX) with the DejaVu fonts.
+Needs [Pandoc](https://pandoc.org/installing.html) ≥ 3. The PDF also needs XeLaTeX (TeX Live, MacTeX or TinyTeX) and the DejaVu fonts installed. The EPUB embeds its own small symbol font ([`fonts/`](fonts/), DejaVu subset, license included), so ✓ ✗ ⚠ ★ ☐ display on Kindle and other e-readers; send it with Send to Kindle.
 
 ```bash
 cd book

@@ -1,0 +1,18 @@
+/* EPUB styles (Kindle, Apple Books, Kobo…). Body text uses the reader's own font;
+   only the book's symbols use the embedded subset font, so they always render. */
+@font-face {
+  font-family: "EF Symbols";
+  src: url("../fonts/ef-symbols.ttf");
+}
+.sym { font-family: "EF Symbols", "DejaVu Sans", sans-serif; }
+body { line-height: 1.35; }
+h1 { page-break-before: always; font-size: 1.6em; margin-top: 1.5em; }
+h2 { font-size: 1.3em; margin-top: 1.4em; }
+h3 { font-size: 1.1em; margin-top: 1.2em; }
+p { margin: 0.6em 0; text-indent: 0; }
+blockquote { margin: 1em 0.8em; padding-left: 0.6em; border-left: 3px solid #999; }
+table { border-collapse: collapse; margin: 0.8em 0; font-size: 0.9em; width: 100%; }
+th, td { border: 1px solid #bbb; padding: 0.25em 0.4em; vertical-align: top; text-align: left; }
+th { background: #eee; }
+code { font-family: monospace; font-size: 0.95em; }
+del { text-decoration: line-through; }

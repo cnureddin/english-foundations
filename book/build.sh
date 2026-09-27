@@ -3,7 +3,8 @@
 #   ./build.sh            -> build/english-foundations-part1.pdf
 #   ./build.sh epub       -> build/english-foundations-part1.epub
 #   PART=part1 ./build.sh -> choose the part (default part1)
-# Needs: pandoc >= 3, and XeLaTeX (TeX Live or TinyTeX) with the DejaVu fonts.
+# Needs: pandoc >= 3. The PDF also needs XeLaTeX (TeX Live or TinyTeX) and the DejaVu
+# fonts installed; the EPUB embeds its own symbol font (fonts/ef-symbols.ttf).
 set -euo pipefail
 cd "$(dirname "$0")"
 PART="${PART:-part1}"
@@ -26,7 +27,9 @@ fi
 COMMON=(--from=markdown+pipe_tables+strikeout --metadata-file="$PART/metadata.yaml" --top-level-division=chapter)
 case "$FORMAT" in
   pdf)  "$PANDOC" "${COMMON[@]}" --lua-filter=table-widths.lua --pdf-engine=xelatex -o "$OUT" "${FILES[@]}" ;;
-  epub) "$PANDOC" "${COMMON[@]}" --toc -o "$OUT" "${FILES[@]}" ;;
+  epub) "$PANDOC" "${COMMON[@]}" --toc --toc-depth=1 --split-level=1 \
+          --lua-filter=epub-symbols.lua --css=epub.css --epub-embed-font=fonts/ef-symbols.ttf \
+          -o "$OUT" "${FILES[@]}" ;;
   tex)  "$PANDOC" "${COMMON[@]}" --standalone -o "build/english-foundations-${PART}.tex" "${FILES[@]}" ;;
   *) echo "usage: $0 [pdf|epub|tex]" >&2; exit 2 ;;
 esac
